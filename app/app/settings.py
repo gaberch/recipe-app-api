@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'core',
     'rest_framework', # Django REST Framework
+    'rest_framework.authtoken',
     'drf_spectacular',
     'user',
 ]
